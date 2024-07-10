@@ -1,0 +1,36 @@
+{
+  "id": "1",
+  "name": "Create User",
+  "method": "POST",
+  "uri": {
+    "scheme": "<<SCHEME>>",
+    "host": "<<HOST>>",
+    "path": "/interop/rest/security/v2/users/add"
+  },
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    },
+    {
+      "name": "Authorization",
+      "value": "<<CREDENTIALS>>"
+    }
+  ],
+  "body": {
+    "type": "text",
+    "textBody": {
+      "users":
+      [
+        {
+          "firstname": "<EL>attributes.get('firstName').get(0)</EL>",
+          "lastname": "<EL>attributes.get('lastName').get(0)</EL>",
+          "email": "<EL>attributes.get('email').get(0)</EL>",
+          "userlogin": "<EL>attributes.get('name').get(0)</EL>",
+          "resetpassword": false,
+          "password": "<EL>attributes.get('password').get(0)</EL>"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+[DEFAULT]
+user=<<USER>>
+fingerprint=<<FINGERPRINT>>
+key_file=src/test/resources/oci_api_key.pem
+tenancy=<<TENANCY>>
+region=<<REGION>>

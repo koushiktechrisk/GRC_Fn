@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="grc-request-template" />
+        <module name="grc-test-infra" />
+        <module name="grc-schema-template" />
+        <module name="grc-response-template" />
+        <module name="commons" />
+        <module name="grc-test-template" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

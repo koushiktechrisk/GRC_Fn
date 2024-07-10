@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grc-request-template/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grc-request-template/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grc-response-template/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grc-response-template/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grc-schema-template/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grc-schema-template/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grc-test-infra/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grc-test-infra/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grc-test-template/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/grc-test-template/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

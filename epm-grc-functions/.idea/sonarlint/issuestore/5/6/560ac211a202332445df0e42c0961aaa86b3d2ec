@@ -1,0 +1,22 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïæ†øÿÿÿÿJ$e46a878c-11f2-4684-87a3-102a7b5256dc
+	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ıJ$cae82146-a844-43d1-9892-c29e8069a7f8
+	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ıJ$51833e94-9874-4c84-8bde-32e65e5d4ade
+	java:S112o"FDefine and throw a dedicated exception instead of using a generic one.(¸‚Á£J$50fdaf31-e6a6-486c-bc8c-cee4b7520035
+c	java:S112¥"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı8úÓ’‰2
+š	java:S115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(š‘ŞŠıÿÿÿÿJ$6bb68170-9173-4ef3-9f3f-f557649d33e9
+š	java:S115!"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(­²àúÿÿÿÿJ$4ac4ab1d-2970-4f2d-bb13-7180a129ecaa
+”	java:S115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(˜š†@J$dc8964d0-b486-48aa-b2c3-6931a4d3c0ff
+•	java:S115%"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÙÇèJ$c6377a4b-7276-451d-96d8-67f7ec83cc21
+š	java:S115&"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÊäëºüÿÿÿÿJ$a92c6c82-c5bd-4284-9cf3-e05647b35793
+š	java:S115'"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ù€‚ÍûÿÿÿÿJ$bddd1bac-f685-4e59-b93c-7ff228db05a6
+‚
+java:S1075 "ARefactor your code to get this URI from a customizable parameter.(š‘ŞŠıÿÿÿÿJ$1187ca39-d4f1-49dd-bfb4-e3b4857ee965
+}
+java:S1075""ARefactor your code to get this URI from a customizable parameter.(£©™ÕJ$120aefc4-3f8c-41ba-8b5d-59fd223e9c2c
+‚
+java:S1075$"ARefactor your code to get this URI from a customizable parameter.(İæÅÚÿÿÿÿÿJ$c5175d9c-e406-4555-8f2c-971cbfb7b8f5
+k	java:S106?"+Replace this use of System.err by a logger.(„Ó±âûÿÿÿÿJ$a5b3dea3-9e2d-430f-880e-b1db0c2c4539
+k	java:S106Y"+Replace this use of System.err by a logger.(„Ó±âûÿÿÿÿJ$3ef8ad2d-2f9c-4258-8620-c20056ce8571
+k	java:S106n"+Replace this use of System.err by a logger.(Şø¥³úÿÿÿÿJ$57b8886d-f0cd-4765-9daf-62def4ae9077
+G	java:S106¤"+Replace this use of System.err by a logger.(¹°¢M8‰Ó’‰2

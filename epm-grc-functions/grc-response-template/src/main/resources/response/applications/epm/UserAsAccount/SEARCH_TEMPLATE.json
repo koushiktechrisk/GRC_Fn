@@ -1,0 +1,40 @@
+{
+  "items": "<JP>$.details[*]</JP>",
+  "attributes": [
+    {
+      "name": "uid",
+      "value": "<JP>$.details[<EL>currentIndex</EL>].userlogin</JP>"
+    },
+    {
+      "name": "name",
+      "value": "<JP>$.details[<EL>currentIndex</EL>].userlogin</JP>"
+    },
+    {
+      "name": "email",
+      "value": "<JP>$.details[<EL>currentIndex</EL>].email</JP>"
+    },
+    {
+      "name": "firstName",
+      "value": "<JP>$.details[<EL>currentIndex</EL>].firstname</JP>"
+    },
+    {
+      "name": "lastName",
+      "value": "<JP>$.details[<EL>currentIndex</EL>].lastname</JP>"
+    },
+    {
+      "name": "roles",
+      "responseOfSubRequestId": "1",
+      "items": "<JP>$.details[0].roles</JP>",
+      "subAttributes": [
+        {
+          "name": "uid",
+          "value": "<JP>$.details[0].roles[<EL>currentIndex</EL>].rolename</JP>"
+        },
+        {
+          "name": "name",
+          "value": "<JP>$.details[0].roles[<EL>currentIndex</EL>].rolename</JP>"
+        }
+      ]
+    }
+  ]
+}

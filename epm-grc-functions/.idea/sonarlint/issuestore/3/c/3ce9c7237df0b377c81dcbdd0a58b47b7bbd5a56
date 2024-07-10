@@ -1,0 +1,7 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úúùJ$2fb273af-749c-465b-adde-801522e94d33
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ıJ$d4c2519b-ac5c-474b-b012-dac9413995d9
+š	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(è³­ıÿÿÿÿJ$74a984f2-4bb3-4db4-bf90-dfe260602834
+‚
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(è³­ıÿÿÿÿJ$ea7fdf02-a39f-4755-8d3f-cec13cc54bce
+k	java:S106"+Replace this use of System.err by a logger.(„Ó±âûÿÿÿÿJ$c2a6232c-eed9-4ae0-a681-f0b8ecdaab06

@@ -1,0 +1,48 @@
+{
+  "id": "1",
+  "name": "Search Users",
+  "method": "GET",
+  "uri": {
+    "scheme": "<<SCHEME>>",
+    "host": "<<HOST>>",
+    "path": "/interop/rest/security/v2/report/roleassignmentreport/user"
+  },
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    },
+    {
+      "name": "Authorization",
+      "value": "<<CREDENTIALS>>"
+    }
+  ],
+  "subRequests": [
+    {
+      "id": "1",
+      "name": "Search User Role Membership",
+      "method": "GET",
+      "uri": {
+        "scheme": "<<SCHEME>>",
+        "host": "<<HOST>>",
+        "path": "/interop/rest/security/v2/report/roleassignmentreport/user"
+      },
+      "queryParameters": [
+        {
+          "name": "userlogin",
+          "value": "<JP>$.details[<EL>parentCurrentIndex</EL>].userlogin</JP>"
+        }
+      ],
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        },
+        {
+          "name": "Authorization",
+          "value": "<<CREDENTIALS>>"
+        }
+      ]
+    }
+  ]
+}

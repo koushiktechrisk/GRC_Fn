@@ -1,0 +1,25 @@
+{
+  "items": "<JP>$.details[*]</JP>",
+  "attributes": [
+    {
+      "name": "uid",
+      "value": "<JP>$.details[<EL>currentIndex</EL>].userlogin</JP>"
+    },
+    {
+      "name": "name",
+      "value": "<JP>$.details[<EL>currentIndex</EL>].userlogin</JP>"
+    },
+    {
+      "name": "email",
+      "value": "<JP>$.details[<EL>currentIndex</EL>].email</JP>"
+    },
+    {
+      "name": "firstName",
+      "value": "<JP>$.details[<EL>currentIndex</EL>].firstname</JP>"
+    },
+    {
+      "name": "lastName",
+      "value": "<JP>$.details[<EL>currentIndex</EL>].lastname</JP>"
+    }
+  ]
+}

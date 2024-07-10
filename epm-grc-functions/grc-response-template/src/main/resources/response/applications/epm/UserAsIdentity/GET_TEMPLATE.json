@@ -1,0 +1,24 @@
+{
+  "attributes": [
+    {
+      "name": "uid",
+      "value": "<JP>$.details[0].userlogin</JP>"
+    },
+    {
+      "name": "name",
+      "value": "<JP>$.details[0].userlogin</JP>"
+    },
+    {
+      "name": "email",
+      "value": "<JP>$.details[0].email</JP>"
+    },
+    {
+      "name": "firstName",
+      "value": "<JP>$.details[0].firstname</JP>"
+    },
+    {
+      "name": "lastName",
+      "value": "<JP>$.details[0].lastname</JP>"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ú¡¨©ýÿÿÿÿ8½¡Ä’‰2J$ace09c96-4f8f-4779-ba10-ff3b3313bb8b
+ˆ	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ý8¿¡Ä’‰2J$0b01020f-5405-4c1a-b206-7d43a728febe
+ˆ	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ý8¿¡Ä’‰2J$29124744-0bdd-41c4-a1bd-6b0386deb63f
+ˆ	java:S112V"FDefine and throw a dedicated exception instead of using a generic one.(¸‚Á£8¿¡Ä’‰2J$6e03ac95-6436-4eff-aac2-2de60e0c0c66
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨¹œú8¿¡Ä’‰2J$289583ef-cce5-4c16-b647-0b260f1c13f0
+›	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÞÓƒ8¿¡Ä’‰2J$876cc7ea-27b4-4c14-9f03-261fd4ff97dc
+„
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¨¹œú8Á¡Ä’‰2J$1c8f48ff-20c7-48bf-897f-979267bd4618
+ƒ
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÞÓƒ8Á¡Ä’‰2J$e3c9387d-9b48-4154-b86d-bd9546cc0c92
+r	java:S1064"+Replace this use of System.err by a logger.(„Ó±âûÿÿÿÿ8Ì¡Ä’‰2J$d191e729-f971-4658-9c7a-e2a0203b1b58
+r	java:S106A"+Replace this use of System.err by a logger.(„Ó±âûÿÿÿÿ8Ì¡Ä’‰2J$77b0fbb3-e42b-4c41-869a-0b3d2ab4b56d
+r	java:S106U"+Replace this use of System.err by a logger.(Þø¥³úÿÿÿÿ8Í¡Ä’‰2J$9e86b24d-106e-4276-9d95-2d9fe148366f
+
+java:S1155g">Use isEmpty() to check whether the collection is empty or not.(“ˆ·ˆ8Ñ¡Ä’‰2J$de551cc8-0cc8-498e-a484-84871d89b689
+
+java:S1155r">Use isEmpty() to check whether the collection is empty or not.(“ˆ·ˆ8Ò¡Ä’‰2J$ccf03e47-16a1-472c-be18-a7e57314e8ce

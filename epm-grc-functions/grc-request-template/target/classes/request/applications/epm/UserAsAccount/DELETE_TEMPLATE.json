@@ -1,0 +1,31 @@
+{
+  "id": "1",
+  "name": "Delete User",
+  "method": "POST",
+  "uri": {
+    "scheme": "<<SCHEME>>",
+    "host": "<<HOST>>",
+    "path": "/interop/rest/security/v2/users/remove"
+  },
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    },
+    {
+      "name": "Authorization",
+      "value": "<<CREDENTIALS>>"
+    }
+  ],
+  "body": {
+    "type": "text",
+    "textBody": {
+      "users":
+      [
+        {
+          "userlogin": "<EL>attributes.get('uid').get(0)</EL>"
+        }
+      ]
+    }
+  }
+}
